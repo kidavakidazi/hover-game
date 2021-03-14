@@ -1,7 +1,7 @@
 export default class GetOptions {
 
   async getOptions() {
-    const response = await fetch('http://demo1030918.mockable.io/')
+    const response = await fetch('https://demo1030918.mockable.io/')
     return await response.json()
   };
 

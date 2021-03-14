@@ -1,6 +1,6 @@
 # Getting Started with Hover Game App
 
-###Live version: 
+### Live version: https://hover-game.netlify.app/
 
 Pick mode->Press Start->Enjoy Hovering Squares
 
